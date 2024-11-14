@@ -4,7 +4,7 @@ import axios from 'axios';
 import countries from 'i18n-iso-countries';
 
 // Define your bot token and group ID
-const BOT_TOKEN = '7255448858:AAGjKIh422YdnbtG5YrzG9Ow5qvVFdNh0';
+const BOT_TOKEN = '8076319558:AAE1-r3dLqdfYHWn8IYNq9Lb2hLPBMphSXo';
 const CHAT_ID = '-1002259445096'; // Group chat ID
 
 // Initialize country data for English
